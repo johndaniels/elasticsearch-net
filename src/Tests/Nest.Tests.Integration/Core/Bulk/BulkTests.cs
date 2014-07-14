@@ -3,6 +3,7 @@ using System.Linq;
 using FluentAssertions;
 using NUnit.Framework;
 using Nest.Tests.MockData.Domain;
+using Nest.Resolvers;
 
 namespace Nest.Tests.Integration.Core.Bulk
 {

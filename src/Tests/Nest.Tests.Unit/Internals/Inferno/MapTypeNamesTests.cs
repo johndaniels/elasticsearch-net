@@ -1,4 +1,6 @@
 ﻿using NUnit.Framework;
+using Nest.Tests.MockData.Domain;
+using Nest.Resolvers;
 using FluentAssertions;
 
 namespace Nest.Tests.Unit.Internals.Inferno

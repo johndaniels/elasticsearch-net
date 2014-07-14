@@ -1,4 +1,7 @@
-﻿namespace Nest
+﻿using Nest.Resolvers;
+using Elasticsearch.Net;
+
+namespace Nest
 {
 	public static class TypeNameMarkerExtensions
 	{

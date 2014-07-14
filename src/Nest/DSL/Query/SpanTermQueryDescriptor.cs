@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using Nest.DSL.Query.Behaviour;
+using Nest.Resolvers;
+using Nest.Resolvers.Converters;
 using Newtonsoft.Json;
 
 namespace Nest

@@ -1,6 +1,9 @@
-﻿using FluentAssertions;
+﻿using System.Text;
+using FluentAssertions;
+using Nest.Resolvers;
 using Nest.Tests.MockData.Domain;
 using NUnit.Framework;
+using System.Net;
 using System.Linq;
 
 namespace Nest.Tests.Integration.Warmers

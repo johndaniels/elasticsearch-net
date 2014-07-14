@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using System.Text;
 using Elasticsearch.Net;
 using FluentAssertions;
+using Nest;
 using Nest.Resolvers;
 using Nest.Tests.MockData.Domain;
 using NUnit.Framework;

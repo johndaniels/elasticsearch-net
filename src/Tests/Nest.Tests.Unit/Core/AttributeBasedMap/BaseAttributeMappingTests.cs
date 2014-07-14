@@ -1,5 +1,6 @@
 ﻿using System;
 using Nest.Resolvers.Writers;
+using Nest.Resolvers;
 
 namespace Nest.Tests.Unit.Core.AttributeBasedMap
 {
